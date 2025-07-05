@@ -1,1 +1,1 @@
-Details about the new feature go here.
+This file contains details of new features I have created as part of my git practice and learning
